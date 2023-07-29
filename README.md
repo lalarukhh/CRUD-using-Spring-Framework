@@ -1,2 +1,1 @@
-# CRUD-using-Spring-Framework
-I have created a simple CRUD app using Spring Framework.
+# spring-boot-crud-app-v2
